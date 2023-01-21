@@ -1,0 +1,151 @@
+
+.addonbutton {
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 220px;
+height: 65px;
+left: 560px;
+top: 695px;
+
+border: 1.5px solid #808080;
+border-radius: 10px;
+}
+.searchtext {
+    
+position: absolute;
+width: 79px;
+height: 29px;
+left: 976px;
+top: 110px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+
+}
+.search {
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 61px;
+left: 912px;
+top: 94px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+
+.inputadd{ 
+    box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 65px;
+left: 64px;
+top: 695px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+
+.textaddon {
+    position: absolute;
+width: 289px;
+height: 29px;
+left: 61px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.textarea1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 197px;
+left: 61px;
+top: 402px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+
+
+.textarea {
+    position: absolute;
+width: 108px;
+height: 29px;
+left: 58px;
+top: 357px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.selectfield {
+    
+position: absolute;
+width: 133px;
+height: 29px;
+left: 55px;
+top: 203px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.selectfield1 {
+    border: 1px solid #808080; border-radius: 10px;
+    box-sizing: border-box; position: absolute;
+    width: 716px; height: 61px; left: 58px; top: 248px;
+}
+.textfield{
+    position: absolute;
+    width: 129px; height: 29px; left: 52px; top: 49px;    
+    font-family: 'Inter'; font-style: normal; font-weight: 400; font-size: 24px; line-height: 29px;
+    color: #000000;
+}
+.inputtext{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 61px;
+left: 55px;
+top: 94px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
